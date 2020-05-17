@@ -1,2 +1,2 @@
 # ds-interview
-Some notebooks to recap key concept in data science, machine learning, programming and data munging
+Notebooks to recap key concepts in data science, machine learning, programming and data munging
